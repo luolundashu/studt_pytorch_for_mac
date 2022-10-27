@@ -1,0 +1,2 @@
+# studt_pytorch_for_mac
+这是在我的mac电脑上学习pytorch时使用的仓库
